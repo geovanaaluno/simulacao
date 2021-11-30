@@ -1,1 +1,2 @@
-o que é uma branch?
+o que é uma branch? 
+são ramificações no projeto
